@@ -1,5 +1,5 @@
 {
-  "name": "satori",
+  "name": "@satori-ianonavy/satori",
   "version": "0.0.44",
   "description": "Enlightened library to convert HTML and CSS to SVG.",
   "module": "./dist/index.js",
